@@ -5,7 +5,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-       app
+        <h1>мой twitter</h1>
       </div>
     );
   }
