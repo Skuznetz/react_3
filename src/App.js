@@ -7,7 +7,7 @@ class App extends Component {
       <div className="App">
         My project
         <input type="text" />
-        <input type="text" />
+        
       </div>
     );
   }
