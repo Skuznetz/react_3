@@ -44,7 +44,21 @@ class App extends Component {
     return (
       <div className="App">
         <h1>Clone twitter</h1>
-        <Tweet />
+        <div>
+                {
+                    TWEETS.map(tweet =>
+                        <Tweet
+                            key={tweet.id}
+                            author={tweet.author}
+                            text={tweet.text}
+                            image={tweet.image}
+                            avatar={tweet.avatar}
+                            likes={tweet.likes}
+                            retweets={tweet.retweets}
+                        />
+                    )
+                }
+            </div>
       </div>
     );
   }
