@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
+import Tweet from './Tweet.js';
 
 class App extends Component {
   render() {
