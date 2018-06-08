@@ -33,7 +33,7 @@ const TWEETS = [
       id: 4,
       author: 'bendhalpern',
       text: `Sometimes when I'm writing Javascript I want to throw up my hands and say "this is bullshit!" but I can never remember what "this" refers to`,
-      avatar: 'https://pbs.twimg.com/profile_images/756147229593829376/jROLpEg__400x400.jpg',
+      avatar: 'https://pbs.twimg.com/profile_images/855590922486136832/g8m8zpCp_normal.jpg',
       likes: 9457,
       retweets: 10833
   },
