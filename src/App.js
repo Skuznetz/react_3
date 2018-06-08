@@ -16,7 +16,7 @@ const TWEETS = [
       id: 2,
       author: 'r00k',
       text: 'Beginner: I wrote 1,000 lines of code! Intermediate: I deleted 1,000 lines of code! Expert: I prevented code from being written!',
-      avatar: 'https://pbs.twimg.com/profile_images/631229918819520512/NGocw_XD_bigger.jpg',
+      avatar: 'https://pbs.twimg.com/profile_images/1004890232804610050/113ZX7ZN_400x400.jpg',
       likes: 2233,
       retweets: 1084
   },
