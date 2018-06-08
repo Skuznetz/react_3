@@ -5,7 +5,7 @@ import Tweet from './Tweet.js';
 const TWEETS = [
   {
       id: 1,
-      author: 'bennet',
+      author: 'itstonybennet',
       text: 'Distinguishing between a muffin and chihuahua will be the next big hurdle in #machinelearning. @Redo @Louis_Monier',
       image: 'https://pbs.twimg.com/media/ChL0GdiU0AIWdC_.jpg',
       avatar: 'https://pbs.twimg.com/profile_images/758746988011597824/VAzmoJvV_400x400.jpg',
