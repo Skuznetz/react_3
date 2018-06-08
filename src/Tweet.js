@@ -12,7 +12,8 @@ class Tweet extends Component{
   } = this.props;
     return (
       <div className="tweet">
-      <img className="tweet-avatar" src={avatar} />
+      <img className="tweet-avatar" src={avatar}
+      alt={author} />
 
       <div className="tweet-body">
           <a
@@ -29,7 +30,8 @@ class Tweet extends Component{
 
           {
               image &&
-              <img className="tweet-image" src={image} />
+              <img className="tweet-image" src={image} 
+              alt={text}/>
           }
 
           <div className="tweet-stats">
