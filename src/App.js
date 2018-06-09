@@ -39,6 +39,12 @@ const TWEETS = [
   },
 ];
 
+function shuffle(arr){
+    const result = [...arr];
+    result.sort(() =>0.5 -Math.random());
+    return result;
+}
+
 class App extends Component {
   render() {
     return (
