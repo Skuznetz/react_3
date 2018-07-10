@@ -1,6 +1,6 @@
-import React, { Component } from 'react';
+import React from 'react';
 
-class Tweet extends Component{
+class Tweet extends React.Component{
   render(){
     const {
       avatar,
